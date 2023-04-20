@@ -1,0 +1,33 @@
+body {
+background: rgb(105, 105, 241);
+font: normal 15pt arial;
+
+
+}
+
+
+header{
+    color: white;
+    text-align: center;                                     /* alinhamento do texto*/
+
+}
+
+section{
+    background: white;
+    border-radius: 10px;                                   /* borda arredondada*/
+    padding: 15px;                                          /* espaço dentro*/
+    width: 500px;                                           /* largura do retangulo*/
+    margin: auto;                                           /* margem, auto ele fica no meio do site*/
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.527);              /* vai fazer uma sombra no retangulo*/
+
+}
+footer{
+        color: white;
+        text-align: center;                                /* alinhamento do texto*/
+        font-style: italic;
+}
+
+div {
+    text-align: center;
+    padding: 10px;
+}
